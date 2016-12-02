@@ -1,0 +1,33 @@
+Avaliação das apresentações dos grupos:
+
+Grupo 1: Nesta apresentação, acredito que a informação mais relevante foi em relação 
+às declarações dos profissionais envolvidos nos processos de migração de BDs relacionais
+para BDs NoSQL, principamente com relação aos conceitos já sedimentados que precisam ser
+reciclados para adotar as novas tecnologias. Situação que deverei me deparar em breve
+no contexto profissional.
+Avaliação: 10
+
+Grupo 2: A utilização de um banco de dados que utiliza grafos em sua estrutura como o Neo4J
+pareceu bastante apropriada para uma empresa de logística como o eBay que precisa definir a 
+melhor distribuição de seus centros logísticos e as melhores rotas de entrega, utilizando-se 
+assim de uma estrutura com pontos e ligações facilmente adaptada em um grafo.
+Avaliação: 10
+
+Grupo 3: A convivência entre o banco relacional e o NoSQL numa empresa que tem estrutura de 
+lojas físicas e virtuais como a Leroy Merlin foi interessante pois tornou clara a possibilidade
+de cada banco realizar as atividades que melhor atende. 
+Avaliação: 9,5
+
+Grupo 4: No comparativo apresentado entre o Oracle e o MongoDB foi possível perceber que
+é possível substituir um banco de dados relacional de custo elevado e que demanda uma
+infraestrutura robusta por um banco de dados NoSQL sem custo de licença e que demanda uma
+infraestrutura menos pesada e mais versátil para expansão.
+Avaliação: 10
+
+Grupo 5: Grupo que participei e, portanto, sem avaliação.
+
+Grupo 6: Interessante nesta apresentação além do fato de descrever uma utilização
+totalmente distinta das demais - visto que foi voltada para a área acadêmica enquanto as
+demais foram aplicações comerciais - foi a forma de exibição dos slides mesclando as
+informações relevantes com o formato JSON
+Avaliação: 10
